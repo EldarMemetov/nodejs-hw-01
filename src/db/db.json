@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "25bd4c64-aa01-4c7e-b0a9-587fe93498c6",
+    "name": "Ruby Dickens",
+    "phone": "(697) 493-7211 x53660",
+    "email": "Neoma_Rippin27@hotmail.com",
+    "job": "Human Quality Administrator"
+  },
+  {
+    "id": "c138f668-86c7-48fb-8dbf-ba4dcfb50658",
+    "name": "Ms. Lauren Olson",
+    "phone": "999-282-5768 x08672",
+    "email": "Nyasia_Cole-Yundt5@hotmail.com",
+    "job": "Corporate Assurance Analyst"
+  },
+  {
+    "id": "014c3cd1-4f97-4123-aa05-83bb74a5dc6a",
+    "name": "Sheri Bins",
+    "phone": "1-798-934-9185 x28127",
+    "email": "Fiona.Kilback19@gmail.com",
+    "job": "National Identity Supervisor"
+  },
+  {
+    "id": "e61b95d5-16c8-4738-8c57-b37742447611",
+    "name": "Myrtle Hartmann",
+    "phone": "264.277.4260 x949",
+    "email": "Wilson_Morissette@gmail.com",
+    "job": "Corporate Configuration Developer"
+  },
+  {
+    "id": "24fc233a-8b62-4085-8036-ccbb1e14f672",
+    "name": "Catherine Kulas",
+    "phone": "357-680-9580 x34197",
+    "email": "Enrique65@hotmail.com",
+    "job": "Dynamic Configuration Orchestrator"
+  }
+]

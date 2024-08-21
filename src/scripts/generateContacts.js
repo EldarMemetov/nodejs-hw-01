@@ -7,10 +7,9 @@ export const generateContacts = async (num) => {
     let data = await fs.readFile(PATH_DB, 'utf-8');
     let contacts = JSON.parse(data);
 
-    const newContacts = [];
-    for (let i = 0; i < num; i += 1) {
-      newContacts.push(createFakeContact());
-    }
+    const newContacts = Array(num)
+      .fill()
+      .map(() => createFakeContact());
 
     contacts = [...contacts, ...newContacts];
 
