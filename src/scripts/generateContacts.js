@@ -8,7 +8,7 @@ export const generateContacts = async (num) => {
     let contacts = JSON.parse(data);
 
     const newContacts = Array(num)
-      .fill()
+      .fill(0)
       .map(() => createFakeContact());
 
     contacts = [...contacts, ...newContacts];
